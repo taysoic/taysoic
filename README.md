@@ -10,9 +10,9 @@
   <img align="center" alt="Thalyson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thalyson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
- 
-  ##
- 
+<br>
+<img align="center" alt="Thalyson-Python" src="https://i.pinimg.com/736x/50/fb/2a/50fb2a4920ec6eecfca1f96a6c7694b7.jpg">
+
 <div> 
   <a href="https://www.instagram.com/itayson_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
