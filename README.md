@@ -1,4 +1,4 @@
-# 👋 Olá,sou Thalyson
+# 👋 Olá. 
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=taysoic&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="taysoic"/>
 <img align="left" height="100px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=taysoic&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="taysoic" />
