@@ -9,6 +9,7 @@
   <img align="center" alt="Thalyson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thalyson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thalyson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Thalyson-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 <br>
 <img align="center" alt="Thalyson-Python" src="https://i.pinimg.com/736x/50/fb/2a/50fb2a4920ec6eecfca1f96a6c7694b7.jpg">
