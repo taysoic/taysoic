@@ -17,6 +17,6 @@
 
 <div> 
   <a href="https://www.instagram.com/itayson_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://i.pinimg.com/736x/07/db/5d/07db5dcc344d5e567ffe2b56983114a7.jpg" target="_blank"></a> 
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   
 </div>
