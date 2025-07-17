@@ -13,7 +13,7 @@
 </div>
 <br>
 <img align="center" alt="Thalyson" src="https://i.pinimg.com/736x/50/fb/2a/50fb2a4920ec6eecfca1f96a6c7694b7.jpg">
-<img align="center" alt="Thalyson" src="https://i.pinimg.com/736x/50/fb/2a/50fb2a4920ec6eecfca1f96a6c7694b7.jpg">
+<img align="center" alt="Thalyson" src="https://i.pinimg.com/736x/07/db/5d/07db5dcc344d5e567ffe2b56983114a7.jpg">
 
 <div> 
   <a href="https://www.instagram.com/itayson_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
