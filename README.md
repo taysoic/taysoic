@@ -1,5 +1,5 @@
 # 👋 Olá. 
-[<img alt="" width="100%" src="https://i.pinimg.com/originals/5e/ea/2b/5eea2b92e254e5d704e748fc5eecefaa.gif">]
+<img alt="" width="70%" src="https://i.pinimg.com/originals/5e/ea/2b/5eea2b92e254e5d704e748fc5eecefaa.gif">
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=taysoic&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="taysoic"/>
 <img align="left" height="100px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=taysoic&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="taysoic" />
